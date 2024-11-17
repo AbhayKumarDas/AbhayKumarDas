@@ -2,6 +2,9 @@
 🛠 **What I'm up to:** 
 Cooking up some cool ML-based solutions like EnviroX (your eco-shopping buddy) and MoodBoost (because AI-powered merch needs love too).<br><br>🤝**Let's Collab:** Hit me up for innovative ML and design projects—think e-commerce, sustainability, and personalized AI that screams, "I'm useful and cool!"<br><br>🧩 **Help Wanted:** Advanced ML model optimization wizards and design ninjas who can make platforms so interactive they'll practically dance for users.<br><br>🌱 **What I'm Learning:** Fine-tuning pretrained models for OCR and entity extraction (making machines read minds... or text) and diving into advanced web design frameworks to dazzle users with UI/UX magic.<br><br>💬**Ask Me About:** AI for saving the planet, creating funky AI-driven designs, or building ML pipelines that work like a charm (most of the time!).<br><br>⚡ **Fun Fact:** I live for combining logic and creativity—it’s like tech and design had a baby, and I’m babysitting it with caffeine and chaos.
 
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/abhay_2004) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhay_kumardas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-kumar-das) 
 
@@ -12,7 +15,5 @@ Cooking up some cool ML-based solutions like EnviroX (your eco-shopping buddy) a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayKumarDas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayKumarDas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
