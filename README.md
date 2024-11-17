@@ -1,3 +1,5 @@
+(assets/banner)
+
 # Hi, I am Abhay Kumar Das! 
 🛠 **What I'm up to:** 
 Cooking up some cool ML-based solutions like EnviroX (your eco-shopping buddy) and MoodBoost (because AI-powered merch needs love too).<br><br>🤝**Let's Collab:** Hit me up for innovative ML and design projects—think e-commerce, sustainability, and personalized AI that screams, "I'm useful and cool!"<br><br>🧩 **Help Wanted:** Advanced ML model optimization wizards and design ninjas who can make platforms so interactive they'll practically dance for users.<br><br>🌱 **What I'm Learning:** Fine-tuning pretrained models for OCR and entity extraction (making machines read minds... or text) and diving into advanced web design frameworks to dazzle users with UI/UX magic.<br><br>💬**Ask Me About:** AI for saving the planet, creating funky AI-driven designs, or building ML pipelines that work like a charm (most of the time!).<br><br>⚡ **Fun Fact:** I live for combining logic and creativity—it’s like tech and design had a baby, and I’m babysitting it with caffeine and chaos.
