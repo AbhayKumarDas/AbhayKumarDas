@@ -1,4 +1,4 @@
-(assets/banner)
+![Your Alt Text](assets/banner)
 
 # Hi, I am Abhay Kumar Das! 
 🛠 **What I'm up to:** 
